@@ -46,4 +46,10 @@ filters:{
 
 </script>
 <style lang="sass" scoped>
+<<<<<<< HEAD
+=======
+.money{
+    color:red;
+}
+>>>>>>> testone
 </style>
